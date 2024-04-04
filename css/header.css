@@ -1,0 +1,23 @@
+.title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.text {
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 45px;
+  position: relative;
+}
+
+.icons img {
+  display: flex;
+  flex-direction: column;
+  width: 15px;
+  height: 15px;
+  margin-left: 50px;
+}
